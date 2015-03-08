@@ -3,9 +3,10 @@
 
 **A very fast algorithm for reversing strings and arrays.**
 
-This is > 2x as fast as the native javascript Array.reverse(), and accepts strings.
+More than 2 times faster compared to the native javascript Array.prototype.reverse().
 
 - tiny ( 394 bytes )
+- accepts strings and arrays
 - no dependencies
 - for modules and amd loaders
 - leaves Array.prototype.reverse untouched
