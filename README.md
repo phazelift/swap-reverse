@@ -3,7 +3,7 @@
 
 **A very fast algorithm for reversing strings and arrays.**
 
-> This is > 2x as fast as the native javascript Array.reverse(), and accepts strings.
+This is > 2x as fast as the native javascript Array.reverse(), and accepts strings.
 
 - tiny ( 394 bytes )
 - no dependencies
